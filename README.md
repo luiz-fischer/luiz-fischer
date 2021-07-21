@@ -2,7 +2,7 @@
 
  
 
-## I'm (SEU NOME)!
+## I'm Luiz Otávio Fischer!
 
  
 
@@ -18,96 +18,32 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/luiz-fischer/luiz-fischer)](LINK_GIT) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-ot%C3%A1vio-fischer-6583a1125/)]( LINK_LINKEDIN)
 
 
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
 
 ----------------------------------------------------------------------------------
 
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
+## Languages
 
-(SEU NOME) = Hellen.
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-LINK_GIT = https://github.com/hellenmas.
+## Database 
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+## Frameworks
+![](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
+## Cloud
+![](https://img.shields.io/badge/AmazonAWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
-Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
+## OS 
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## Analytics
 
-
-Emblemas.
-Para obter emblemas acesse o link abaixo:
-
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-
--  Agora escolha a imagem qual você gostaria de usar e copie a sua URl.
-
--  Assim você deve criar uma tag por exemplo: img <img src="BadgeURLHere"
-
-*OBS Já deixei uma pronta abaixo.
-
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
-
--  Agora basta copiar para seu README e a mágica acontece.
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-fischer&show_icons=true&theme=midnight-purple)
+](https://github.com/NOMEGIT/github-readme-stats)
 
 
-
-
-
-Blocos
--  Para adicionar blocos, temos varias opções no link abaixo:
-
-https://github.com/anuraghazra/github-readme-stats#themes
-
-- Após escolher seu bloco copie a URL e cole em seu README:
-
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-fischer)](https://github.com/NOMEGIT/github-readme-stats)
-
-- Mas não se esqueça que você deve editar com suas informações por exemplo:
-
-NOMEGIT= luiz-fischer. 
-
-[![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
-
-
-
-
-
-GIF
-- Encontre o gif que mais combina com você nesse link:
-
-https://github.com/TheDudeThatCode/TheDudeThatCode
-
-*OBS deixo abaixo um exemplo para ser usado:
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-
-
-
-
-Imagem
-1. Você pode usar qualquer imagem que aceite markdown no Github. Se quiser pegar a imagem de algum repositório, pode usar o seguinte formato:
-
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_aqui">
-
-2. Para fazer o upload de imagens basta você clicar na imagem que esta em seu computador e arrastar a imagem para o seu README.
-
-
-
-
-Emojis
-1. Para saber quais são os Emojis disponíveis, acesse:
-
-https://github.com/scotch-io/All-Github-Emoji-Icons
-
-2. Agora basta copiar seu código e colar no README
-
-*OBS não se esqueça dos dois pontos : (:shipit:)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-fischer&layout=compact&theme=dark&)](https://github.com/luiz-fischer/github-readme-stats)
