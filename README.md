@@ -68,11 +68,11 @@ https://github.com/anuraghazra/github-readme-stats#themes
 
 - Após escolher seu bloco copie a URL e cole em seu README:
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NOMEGIT)](https://github.com/NOMEGIT/github-readme-stats)
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-fischer)](https://github.com/NOMEGIT/github-readme-stats)
 
 - Mas não se esqueça que você deve editar com suas informações por exemplo:
 
-NOMEGIT= hellenmas. 
+NOMEGIT= luiz-fischer. 
 
 [![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/hellenmas/github-readme-stats)
 
