@@ -34,7 +34,4 @@
 ## Analytics
 
 [![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-fischer&show_icons=true&theme=midnight-purple)
-](https://github.com/NOMEGIT/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-fischer&layout=compact&theme=dark&)](https://github.com/luiz-fischer/github-readme-stats)
+](https://github.com/NOMEGIT/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiz-fischer&layout=compact&theme=dark&)](https://github.com/luiz-fischer/github-readme-stats)
