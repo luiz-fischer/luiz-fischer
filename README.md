@@ -5,7 +5,7 @@
 ## I'm Luiz Otávio Fischer!
  
 
-:computer: I'm newbie! 
+:computer: I'm getting knowledge! 
 
 :house_with_garden: I’m from Brazil.
 
